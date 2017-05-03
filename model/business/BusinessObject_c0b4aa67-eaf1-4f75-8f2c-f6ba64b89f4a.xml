@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personal Document ID"
+    id="c0b4aa67-eaf1-4f75-8f2c-f6ba64b89f4a"
+    documentation="Username&#xD;&#xA;Pasword (One Time Password)&#xD;&#xA;Certificate&#xD;&#xA;"/>
