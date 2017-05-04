@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credentials"
+    id="bb507dea-5e55-45b7-82e0-03f1851ef9d3"
+    documentation="Username&#xD;&#xA;Pasword (One Time Password)&#xD;&#xA;Certificate&#xD;&#xA;"/>

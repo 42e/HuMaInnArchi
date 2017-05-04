@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gather Derived Data from Other Platform"
+    id="3ff3b441-9b0d-49e5-afc6-2fd3ef334af1"
+    documentation="Like Google Fit, FitBit, Endomondo, ...."/>
