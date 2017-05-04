@@ -490,4 +490,16 @@
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_2ff44cb1-6f29-4644-968b-d8cd2d055799.xml#2ff44cb1-6f29-4644-968b-d8cd2d055799"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="5c5d14ec-c04a-4741-a937-5be72d14ee05">
+    <bounds
+        x="792"
+        y="210"
+        width="408"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessCollaboration"
+        href="BusinessCollaboration_40aa03eb-d807-4507-b7a9-ace408dac028.xml#40aa03eb-d807-4507-b7a9-ace408dac028"/>
+  </children>
 </archimate:ArchimateDiagramModel>
