@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BIZ: Driver Habit scenario"
+    id="4c0a82a9-6025-4ad3-ae11-80a5d440d9f5">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="485fe5b4-6107-41d0-a94c-b94d40590fc0">
+    <bounds
+        x="96"
+        y="72"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_78b6bc8d-16a7-463c-a7f7-0832925bd49e.xml#78b6bc8d-16a7-463c-a7f7-0832925bd49e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="ca3294b5-26d4-43e0-ab7f-a42f5bb89131">
+    <bounds
+        x="240"
+        y="72"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_4a5dbfd7-35cd-41e9-b324-1bc59582f264.xml#4a5dbfd7-35cd-41e9-b324-1bc59582f264"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="ab7a1e5b-aa8d-497e-bf63-78298580d01d">
+    <bounds
+        x="384"
+        y="72"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_cf4f6026-2705-4bae-8a66-3cd2d823f9b7.xml#cf4f6026-2705-4bae-8a66-3cd2d823f9b7"/>
+  </children>
+</archimate:ArchimateDiagramModel>
