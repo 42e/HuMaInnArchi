@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Person"
+    id="7ec39d94-7b6e-4eea-960e-6f3bc62ce241"
+    documentation="Person je datovy objekt ktery je pouzity ve vic scenarich - PuntoFijo, Retail bank, Financial company..."/>

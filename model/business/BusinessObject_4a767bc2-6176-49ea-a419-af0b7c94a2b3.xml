@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Score card"
+    id="4a767bc2-6176-49ea-a419-af0b7c94a2b3"
+    documentation="Score karta zakaznika - klasicka score karta vyhotovena na zaklade informaci o zakaznikovi (form s demografickymi daty) a dotazu do registru (BRKI, NRKI)"/>

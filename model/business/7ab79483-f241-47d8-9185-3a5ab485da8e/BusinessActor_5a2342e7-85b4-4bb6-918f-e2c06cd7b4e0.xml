@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EventManager"
+    id="5a2342e7-85b4-4bb6-918f-e2c06cd7b4e0"
+    documentation="Organizuje event na vycisteni mista, muze byt ta sama osoba jako PlaceRankingRecorder"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Client"
+    id="6f7acf38-8c26-43d3-a43f-1fcfbb349171"
+    documentation="CRUD operace nad klientem"/>

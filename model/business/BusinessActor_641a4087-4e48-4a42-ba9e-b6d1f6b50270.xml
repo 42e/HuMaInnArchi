@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Client"
+    id="641a4087-4e48-4a42-ba9e-b6d1f6b50270"
+    documentation="Client se ucastni cisteni, muze to byt ta sama osoba jako EventManager nebo PlaceRankingRecorder"/>
